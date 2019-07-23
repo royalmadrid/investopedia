@@ -21,6 +21,7 @@ How to Invest with Confidence
    Chapter16
    Chapter17
 
+.. include:: index2.rst
 
 Indices and tables
 ==================
