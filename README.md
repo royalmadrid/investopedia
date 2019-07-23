@@ -1,2 +1,2 @@
 # investopedia
-Future Works Series - All About Investing
+Future Works  - All About Investing
