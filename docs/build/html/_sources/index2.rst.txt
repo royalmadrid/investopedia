@@ -1,3 +1,5 @@
+**A Beginner's Guide to Asset Classes**
+
 The investment landscape can be extremely dynamic and ever-evolving. But those who take the time to understand the basic principles and the different asset classes stand to gain significantly over the long haul. The first step: learning to distinguish different types of investments and what rung each occupies on the "risk ladder."
 
 .. admonition:: KEY TAKEAWAYS
@@ -33,8 +35,7 @@ Exchange Traded Funds (ETFs)
     Exchange-traded funds (ETFs) have become quite popular since their introduction back in the mid-1990s. ETFs are similar to mutual funds, but they trade throughout the day, on a stock exchange, just like shares of stock. Unlike mutual funds, which are valued at the end of each trading day, ETF values fluctuate intra-day.
     Many ETFs track passive market indexes like the S&P 500, the Barclay’s Aggregate Bond Index, and the Russell 2000 index of small-cap stocks. In recent years, actively managed ETFs have emerged, as have so-called smart beta ETFs, which create indexes based on factors such as quality, low volatility, and momentum.
 
-**Alternative Investments**
-
+Alternative Investments
     There is a vast universe of alternative investments, including the following sectors:
 
     -	Real estate. Investors can acquire real estate by directly buying commercial or residential             properties. Alternatively, they can purchase shares in real estate investment trusts (REITs), which     pool the money of several investors, to purchase properties. REITS trade like stocks, but there are     mutual funds and ETFs that invest in REITs.

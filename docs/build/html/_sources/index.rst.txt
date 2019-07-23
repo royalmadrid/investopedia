@@ -11,6 +11,7 @@ How to Invest with Confidence
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
    :caption: Contents:
 
    Chapter11
