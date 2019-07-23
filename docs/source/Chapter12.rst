@@ -122,6 +122,7 @@ Now that we've explained the two main orders, here's a list of some added restri
 -  Take Profit: A take profit order (sometimes called a profit target) is intended to close out the trade at a profit     once it has reached a certain level. Execution of a Take Profit order closes the position. This type of order is       always connected to an open position of a pending order.
 
 .. admonition:: Important
+
         Not all brokerages or online trading platforms allow for all of these types of orders. Check with your broker if you do not have access to a particular order type that you wish to use.
 
 **The Bottom Line**
