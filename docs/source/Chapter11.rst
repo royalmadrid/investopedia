@@ -231,12 +231,11 @@ Direct Stock Purchase Plan
 
 Sometimes, companies (often blue-chip firms) will sponsor a special type of program called a DSPP, or Direct Stock Purchase Plan. DSPPs were originally conceived generations ago as a way for businesses to let smaller investors buy ownership directly from the company. Participating in a DSPP requires an investor to engage with a company directly rather than a broker, but every company's system for administering a DSPP is unique. Most usually offer their DSPP through transfer agents or another third-party administrator. To learn more about how to participate in a company's DSPP, an investor should contact the company's investor relations department.
 
-**ADVISOR INSIGHT**
+.. admonition:: ADVISOR INSIGHT
 
+        You can buy or sell stock on your own by opening a brokerage account with one of the many brokerage firms. After opening your account, connect it with your bank checking account to make deposits, which are then available for you to invest.
 
-You can buy or sell stock on your own by opening a brokerage account with one of the many brokerage firms. After opening your account, connect it with your bank checking account to make deposits, which are then available for you to invest.
-
-However, do not equate the ease of opening an account with the ease of making good investment decisions. It is generally recommended that beginners speak to a qualified financial advisor. New investors should read "The Intelligent Investor" by Benjamin Graham. Smart investing can be highly satisfying so take it slow, do your research, and seek out an advisor that has your best interests in mind.
+        However, do not equate the ease of opening an account with the ease of making good investment decisions. It is generally recommended that beginners speak to a qualified financial advisor. New investors should read "The Intelligent Investor" by Benjamin Graham. Smart investing can be highly satisfying so take it slow, do your research, and seek out an advisor that has your best interests in mind.
 
 
 ---------------
