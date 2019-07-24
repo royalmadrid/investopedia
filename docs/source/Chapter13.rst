@@ -183,7 +183,7 @@ ETFs are still relatively new while mutual funds have been around for ages, so i
 
 The decision boils down to comparing the long-term benefit of switching to a better investment and paying more upfront tax, versus staying put in a portfolio of less optimal investments with higher expenses (that might also be a drain on your time, which is worth something).
 
-..admonition:: Important
+.. admonition:: Important
 
         Keep in mind that, unless you gift or bequeath your ETF portfolio, you will one day pay tax on these built-in gains. So you are often just deferring taxes, not avoiding them.
 
@@ -212,6 +212,3 @@ But in most situations and for most investors who want to keep things simple, ET
         •	Both mutual funds and ETFs hold portfolios of stocks and/or bonds and occasionally something more exotic,      such as precious metals or commodities.
         •	A key difference is that most ETFs are index-tracking.
         •	Mutual funds can track indexes but most are actively managed.
-
-
-

@@ -9,6 +9,8 @@ Welcome to Investopedia's documentation!
 How to Invest with Confidence
 -------------------------------
 
+.. include:: index2.rst
+
 .. toctree::
    :maxdepth: 2
    :numbered:
@@ -22,7 +24,7 @@ How to Invest with Confidence
    Chapter16
    Chapter17
 
-.. include:: index2.rst
+
 
 Indices and tables
 ==================
