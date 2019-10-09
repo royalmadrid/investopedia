@@ -3,26 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
 Welcome to Investopedia's documentation!
 ========================================
 
-How to Invest with Confidence
--------------------------------
-
-.. include:: index2.rst
-
 .. toctree::
    :maxdepth: 2
-   :numbered:
    :caption: Contents:
 
-   Chapter11
-   Chapter12
-   Chapter13
-   Chapter14 
-   Chapter15
-   Chapter16
-   Chapter17
+   /invest/investing
 
 
 

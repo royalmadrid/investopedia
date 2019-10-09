@@ -163,7 +163,7 @@ Buying Calls (Long Call)
 
         Risk/Reward: The trader's potential loss from a long call is limited to the premium paid. Potential profit is unlimited, as the option payoff will increase along with the underlying asset price until expiration, and there is theoretically no limit to how high it can go. 
 
-        .. figure:: _static/Figure5-1.png
+        .. figure:: /_static/Figure5-1.png
                 :align: center
                 :figwidth: 500px
 
@@ -179,7 +179,7 @@ Buying Puts (Long Put)
 
         **Risk/Reward:** Potential loss is limited to the premium paid for the options. The maximum profit from the position is capped since the underlying price cannot drop below zero, but as with a long call option, the put option leverages the trader's return.
 
-        .. figure:: _static/Figure5-2.png
+        .. figure:: /_static/Figure5-2.png
                 :align: center
                 :figwidth: 500px
 
@@ -199,7 +199,7 @@ Covered Call
 
         Risk/Reward: If the share price rises above the strike price before expiration, the short call option can be exercised and the trader will have to deliver shares of the underlying at the option's strike price, even if it is below the market price. In exchange for this risk, a covered call strategy provides limited downside protection in the form of premium received when selling the call option. 
 
-        .. figure:: _static/Figure5-3.png
+        .. figure:: /_static/Figure5-3.png
                 :align: center
                 :figwidth: 500px
 
